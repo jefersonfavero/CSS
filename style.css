@@ -1,0 +1,91 @@
+.classe1{
+    display: flex; 
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.classe2{
+    display: flex; 
+    margin-top: 150px;
+    margin-left: 200px;
+}
+#teste1{
+    border-radius: 9%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgba(54, 54, 80, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+#teste1:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 20px 80px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#teste2{
+    border-radius: 15%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+#teste2:hover{
+    box-shadow: rgb(7, 8, 10) 20px 70px 30px -10px;
+}
+
+#teste3{
+    border-radius: 15%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#teste3:hover{
+    box-shadow: rgba(57, 59, 61, 0.2) 20px 68px 24px;
+}
+
+#teste4{
+    border-radius: 9%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#teste4:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 94px 55px, rgba(0, 0, 0, 0.12) 20px 42px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#teste5{
+    border-radius: 15%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+#teste5:hover{
+    box-shadow: rgba(13, 13, 14, 0.25) 30px 100px 100px -20px, rgba(0, 0, 0, 0.3) 20px 90px 60px -30px, rgba(8, 8, 8, 0.35) 0px -2px 6px 0px inset;
+}
+
+#teste6{
+    border-radius: 15%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    transition: all 0.7s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+#teste6:hover{
+    box-shadow: rgba(8, 8, 8, 0.3) 100px 100px 100px, rgba(0, 0, 0, 0.22) 100px 100px 100px;
+}
